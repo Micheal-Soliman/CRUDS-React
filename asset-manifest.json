@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRUDS-React/static/css/main.4e62d80f.css",
+    "main.js": "/CRUDS-React/static/js/main.a6738cf9.js",
+    "static/media/logo.svg": "/CRUDS-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CRUDS-React/index.html",
+    "main.4e62d80f.css.map": "/CRUDS-React/static/css/main.4e62d80f.css.map",
+    "main.a6738cf9.js.map": "/CRUDS-React/static/js/main.a6738cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e62d80f.css",
+    "static/js/main.a6738cf9.js"
+  ]
+}
